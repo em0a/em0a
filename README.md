@@ -17,7 +17,7 @@ I'm a Computer Engineering student navigating the intersection of web developmen
 * 🎓 **Studying:** Bachelor of Science in Computer Engineering @ Polytechnic University of the Philippines
 * 📜 **Alumni:** Computer System Servicing @ Colegio De San Gabriel Arcangel
 * 🛡️ **Current Focus:** Web Application Penetration Testing (Burp Suite Pro), Bug Bounty Hunting, and Full-Stack Development
-* 🌐 **Portfolio:** [emoa4444.onrender.com](https://emoa4444.onrender.com/)
+* 🌐 **Portfolio:** [CLICK HERE!](https://emoa4444.onrender.com/)
 
 ---
 
